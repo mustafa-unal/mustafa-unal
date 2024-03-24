@@ -10,6 +10,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-unal&show_icons=true&locale=en&layout=compact" alt="mustafa-unal" /></p>
 
-
-
 ![snake gif](https://github.com/mustafa-unal/mustafa-unal/blob/output/github-contribution-grid-snake.gif)
